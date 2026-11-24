@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sitting Disease · Stuff You Should Know</title>
+<meta name="description" content="A 3-minute narrated explainer on sitting disease and the small fix.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='44' fill='%232dd4bf'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="stage" class="intro">
+  <div id="bg"><div class="orb o1"></div><div class="orb o2"></div><div class="orb o3"></div><div class="dots"></div><div class="vignette"></div></div>
+
+  <header id="hud">
+    <div class="brand"><span class="bdot"></span>Stuff You Should Know<span class="sep">/</span><span class="bt">Sitting Disease</span></div>
+    <div id="counter">01 / 10</div>
+  </header>
+
+  <main id="scenes"></main>
+
+  <div id="captions"><div id="capLine"></div></div>
+  <div id="progress"><div id="progressFill"></div></div>
+
+  <section id="intro">
+    <div class="eyebrow">Stuff You Should Know</div>
+    <h1 class="intro-title">Sitting <span class="grad">Disease</span></h1>
+    <p class="intro-sub">What hours in a chair do to your body, and the surprisingly small fix.</p>
+    <div class="play-wrap">
+      <span class="r"></span><span class="r b"></span>
+      <button id="playBtn" class="play" disabled aria-label="Play presentation"><svg viewBox="0 0 24 24"><path d="M8 5.5v13l11-6.5z"/></svg></button>
+    </div>
+    <div id="introMeta" class="intro-meta">Loading…</div>
+  </section>
+
+  <div id="pausedOverlay">
+    <div class="po-icon"><svg viewBox="0 0 24 24"><path d="M8 5.5v13l11-6.5z"/></svg></div>
+    <div class="po-t">Paused</div>
+    <div class="po-s">Space to resume &nbsp;·&nbsp; ← → to skip scenes</div>
+  </div>
+
+  <button id="pauseBtn" aria-label="Pause or resume">
+    <svg class="i-pause" viewBox="0 0 24 24"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>
+    <svg class="i-play" viewBox="0 0 24 24"><path d="M8 5.5v13l11-6.5z"/></svg>
+    <svg class="i-replay" viewBox="0 0 24 24"><path d="M12 5V1.5L7 6l5 4.5V7a5 5 0 1 1-5 5H5a7 7 0 1 0 7-7z"/></svg>
+  </button>
+</div>
+<script src="scenes.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

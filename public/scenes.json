@@ -1,0 +1,57 @@
+{
+  "title": "Sitting Disease",
+  "subtitle": "Stuff You Should Know",
+  "sources": "Morris et al., The Lancet (1953); Mayo Clinic; Journal of the American College of Cardiology (2025); Diaz et al., Columbia University (2023).",
+  "scenes": [
+    {
+      "id": 1,
+      "visual": "big ticking clock, \"When did you last stand up?\"",
+      "narration": "Quick question. When was the last time you actually stood up? ... Be honest. ... Yeah. We've all been there."
+    },
+    {
+      "id": 2,
+      "visual": "office chair, clock hands spinning through the hours",
+      "narration": "We all work ten-hour shifts. That's just the job. And honestly? We're sitting at these desks a lot longer than we realize. I'll go first. Some days, I'm in this chair for six, seven hours straight. Don't even get up. Then when I finally do stand up... my body lets me know. Stiff hips. Tight back. Legs that kind of forgot how to walk."
+    },
+    {
+      "id": 3,
+      "visual": "illustrated 1950s London double-decker bus; highlight the seated driver vs. the conductor on the stairs",
+      "narration": "So here's a story most people have never heard. Back in the 1950s, a researcher named Jerry Morris started looking at London's double-decker buses. Same buses. Same routes. But two very different jobs. You had the driver, who sat all day... and the conductor, who was up and down those stairs collecting tickets. And the drivers? They had more heart disease. Sudden heart-related deaths were about twice as common. That one study helped kick off the whole science of exercise and heart health."
+    },
+    {
+      "id": 4,
+      "visual": "big title reveal, \"SITTING DISEASE\"",
+      "narration": "These days, there's a nickname for this. Sitting disease. Now, it's not an official diagnosis. It's just a name for all the problems that build up when we sit for hours without a break."
+    },
+    {
+      "id": 5,
+      "visual": "simple body outline; leg muscles dim, sugar and fat particles building up in the bloodstream",
+      "narration": "So what's actually going on? When you sit, your biggest muscles, the ones in your legs, pretty much go to sleep. And idle muscles barely pull any sugar out of your blood. The enzymes that break down fat drop off too, and your good cholesterol drops right along with them. Plus, the bend in your hips and knees kinks the blood vessels in your legs. And that can push your blood pressure up."
+    },
+    {
+      "id": 6,
+      "visual": "risks appear one by one: type 2 diabetes, heart disease, certain cancers, early death; then an hour counter climbing to 10.6",
+      "narration": "Now stretch that out over years. Over the long run, too much sitting is linked to type two diabetes, heart disease, certain cancers... and dying earlier. One big analysis found that sitting more than eight hours a day, with no physical activity, carried a risk of death similar to obesity and smoking. And a twenty twenty-five heart study found the risk was especially high for people sitting more than about ten and a half hours a day. Think about it. A long shift. Plus dinner. Plus the couch at night. That adds up fast."
+    },
+    {
+      "id": 7,
+      "visual": "gym/running icon, \"60-75 minutes a day\"; then a couch potato in sneakers",
+      "narration": "So, can you just work it off at the gym? Well... partly. A study of over a million people found it took sixty to seventy-five minutes of moderate exercise, every single day, to make up for a long day of sitting. That's a lot. And for some risks, like heart failure, exercise only gets you part of the way. Researchers actually have a name for people who work out but still sit all day. Active couch potatoes. And honestly? That might be a lot of us."
+    },
+    {
+      "id": 8,
+      "visual": "animated 30-minute timer ring; \"58%\" counting up; \"4-5 points\" for blood pressure",
+      "narration": "But here's the good news. The fix is small. Researchers at Columbia University had people sit for eight hours, and tested different walking breaks. The winner? Five minutes of light walking, every thirty minutes. That cut blood sugar spikes after a big meal by fifty-eight percent, and lowered blood pressure by four to five points. People said they felt less tired, and in a better mood, too. Now, it was a small study. But the message is simple. Move often."
+    },
+    {
+      "id": 9,
+      "visual": "four icons appearing one at a time: headset + standing person, walking lap, small water glass, reminder bell",
+      "narration": "So what does that look like on the help desk? Stand up during calls. Take a quick lap between tickets. Use a smaller water glass, so you have to refill it more often. Or just set a thirty-minute reminder."
+    },
+    {
+      "id": 10,
+      "visual": "\"THE CHALLENGE: Up every 30 minutes, for one week,\" then a sources line",
+      "narration": "So here's my challenge. For one week, get up every thirty minutes. Even if it's just for a minute. Then at the next meeting, let's hear how it went. Thanks, everyone."
+    }
+  ]
+}
